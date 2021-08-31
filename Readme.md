@@ -1,2 +1,1 @@
-Olá, isso é um teste!
-Isso é o teste 2!
+Aulas e exercícios resolvidos do Curso em Vídeo - Mundo 01
