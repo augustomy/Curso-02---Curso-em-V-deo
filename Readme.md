@@ -1,1 +1,1 @@
-Aulas e exercícios resolvidos do Curso em Vídeo - Mundo 01
+Aulas e exercícios resolvidos do Curso em Vídeo - Mundo 02
