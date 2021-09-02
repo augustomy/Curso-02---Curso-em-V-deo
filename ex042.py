@@ -27,4 +27,3 @@ if (abs(b-c) < a < (b+c) and abs(a-c) < b < (a+c) and abs(a-b) < c < (a+b)):
         print('Será um triângulo \033[1;36mISÓSCELES\033[m com lados medindo {} | {} | {} |'.format(a, b, c))
 else:
     print('\033[1;31mNão é possível formar um triângulo com as dimensões informadas.\033[m')
-
